@@ -1,0 +1,3 @@
+Analisi e “Cattura_U3_W1_L3”
+Possiamo notare molteplici richieste TCP che indicano un tentativo di connessione in atto dall'ip 192.168.200.100 all'ip 192.168.200.150. Il tentativo di connessione colpisce diverse porte, ciò indica un tentativo di scansione della rete.
+Per ovviare a questo possiamo agire con delle regole di firewall impostate su drop, aggiornare il software e monitorare il dispositivo attentamente.
